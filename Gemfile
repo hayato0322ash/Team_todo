@@ -18,7 +18,7 @@ gem 'parser', '< 2.7.0.0'
 
 group :development, :test do
   gem 'byebug',  '9.0.6', platform: :mri
-  gem 'mysql2', '~> 0.4.4'
+  gem 'mysql2', '~> 0.4.4' 
 end
 
 group :development do
